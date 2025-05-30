@@ -11,7 +11,7 @@ This project focuses on using machine learning and deep learning to detect diabe
 1. [DFUC 2021](https://dfu-challenge.github.io/dfuc2021.html)
 2. [DFUC 2020](https://dfu-challenge.github.io/dfuc2020.html)
 3. [Kaggle DFU](https://www.kaggle.com/datasets/laithjj/diabetic-foot-ulcer-dfu) 
-4. Collected Images will only be available upon request via email - mahmudislam2025@gmail.com
+4. Collected Images will only be available upon request via - [Form](https://forms.gle/bK4NsZtgArDkDwRAA) 
 
 ## Demo
 Live Demo: [DFU Prediction App](https://footulcer-bd.onrender.com)
